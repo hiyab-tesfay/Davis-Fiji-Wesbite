@@ -43,8 +43,6 @@ Use landscape images at least 1600 pixels wide for page heroes and 1000 pixels w
 - `styles.css` — shared design system and responsive layouts
 - `script.js` — shared navigation, footer, mobile menu, and subtle reveal effects
 
-The existing `decode.py` utility is unrelated and has been left unchanged.
-
 ## Before publishing
 
 - Confirm that `217 Russell Boulevard` is the chapter's current public-facing location. The address was supplied for this build, but older public listings associate it with a different fraternity.
